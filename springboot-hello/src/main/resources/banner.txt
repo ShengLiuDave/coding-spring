@@ -1,0 +1,16 @@
+${AnsiColor.BRIGHT_YELLOW}
+      o__ __o                         o     o
+     /v     v\                       <|>  _<|>_
+    />       <\                      < \
+  o/               o__ __o      o__ __o/    o    \o__ __o     o__ __o/
+ <|               /v     v\    /v     |    <|>    |     |>   /v     |
+  \\             />       <\  />     / \   / \   / \   / \  />     / \
+    \         /  \         /  \      \o/   \o/   \o/   \o/  \      \o/
+     o       o    o       o    o      |     |     |     |    o      |
+     <\__ __/>    <\__ __/>    <\__  / \   / \   / \   / \   <\__  < >
+                                                                    |
+                                                            o__     o
+                                                             <\__ __/>
+
+Spring Boot Version: ${spring-boot.version}
+
